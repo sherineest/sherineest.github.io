@@ -1,0 +1,80 @@
+h1 {
+    font-family: 'Permanent Marker', cursive;  
+	font-size:44px;
+	margin:0;
+	color:white;
+}
+
+.tl-slider-container-mask {
+    background-color: white;
+}
+
+ 
+
+.tl-timemarker .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text  h2.tl-headline {
+    font-family: 'Handlee', cursive;
+}
+
+h2.tl-headline {
+    font-family: 'Permanent Marker', cursive!important;
+	color:#D90404;
+}
+
+
+
+p {
+    font-family: 'Handlee', cursive!important;
+	color: #2669BF!important;
+}
+
+
+.tl-timeline {
+    font-family: 'Handlee', cursive!important;
+}
+
+
+
+.tl-headline-date {
+    font-family: 'Handlee', cursive!important;
+	color: #2669BF!important;
+}
+
+.tl-slidenav-description, tl-slidenav-title {
+     font-family: 'Handlee', cursive!important;
+}
+
+.tl-slidenav-title {
+     font-family: 'Handlee', cursive!important;
+}
+
+
+.tl-timeaxis-background{
+	background-color:whitesmoke;
+}
+
+	
+	
+.tl-text-content {
+	font-family: 'Handlee',cursive; 
+	font-size:12px;
+	margin:0;
+	color:;
+}
+
+
+.tl-timenav{
+	background-color: #143D73;
+}
+
+.tl-timemarker-media-container {
+    display: none;
+}
+
+
+
+font-family: 'Abril Fatface', cursive;
+font-family: 'Allura', cursive;
+font-family: 'Handlee', cursive;
+font-family: 'Neucha', cursive;
+font-family: 'Permanent Marker', cursive;
+
